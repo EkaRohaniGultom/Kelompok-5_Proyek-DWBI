@@ -20,18 +20,16 @@ Final project for `Data Warehouse and Business Intelligence` course.
 <br>
  
 ### 🔧 Tools
-<div>
-  <a href="https://www.postgresql.org/">
-    <img align="left" alt="PostgreSQL" height="50px" width="55px" src="https://github.com/EkaRohaniGultom/Kelompok-5_Proyek-DWBI/assets/70984049/4faa3c30-d111-4044-8370-f0b8ede8adc7"/>
-  </a>
-  <a href="https://www.hitachivantara.com/en-us/products/dataops-software/data-integration-analytics.html">
-    <img align="left" alt="Pentaho" height="50px" width="55px" src="https://github.com/EkaRohaniGultom/Kelompok-5_Proyek-DWBI/assets/70984049/6ca399f6-da7c-43aa-8083-873f58aad065" />
-  </a>
-  <a href="https://www.tableau.com/">
-    <img align="left" alt="Tableau" height="50px" width="55px" src="https://github.com/EkaRohaniGultom/Kelompok-5_Proyek-DWBI/assets/70984049/31f43090-4321-4bbc-8a6c-59be4ff55f64" />
-  </a>
-</div>
 
+<a href="https://www.postgresql.org/">
+  <img align="left" alt="PostgreSQL" height="42px" width="47px" src="https://github.com/EkaRohaniGultom/Kelompok-5_Proyek-DWBI/assets/70984049/4faa3c30-d111-4044-8370-f0b8ede8adc7">
+</a>
+<a href="https://www.hitachivantara.com/en-us/products/dataops-software/data-integration-analytics.html">
+   <img align="left" alt="Pentaho" height="42px" width="47px" src="https://github.com/EkaRohaniGultom/Kelompok-5_Proyek-DWBI/assets/70984049/6ca399f6-da7c-43aa-8083-873f58aad065"/>
+</a>
+<a href="https://www.tableau.com/">
+   <img align="left" alt="Tableau" height="42px" width="47px" src="https://github.com/EkaRohaniGultom/Kelompok-5_Proyek-DWBI/assets/70984049/31f43090-4321-4bbc-8a6c-59be4ff55f64"/>
+</a>
 
 <br>
 <br>
