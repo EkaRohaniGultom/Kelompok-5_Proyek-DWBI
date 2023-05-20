@@ -47,7 +47,7 @@ Final project for `Data Warehouse and Business Intelligence` course.
  4. 12S20048 - Jevania
  5. 12S20052 - Eka Rohani Gultom
  6. 12S20053 - Andri Hutapea
- 7. 12S18023 - Agustina Silen
+ 7. 12S18023 - Agustina Silaen
  
  ```
 
