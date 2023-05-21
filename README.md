@@ -15,7 +15,7 @@ Final project for `Data Warehouse and Business Intelligence` course.
 <br> 
  
 ### 🏝️ Dashboard Overview
-`🚧 on progress`
+![dashboard](https://github.com/EkaRohaniGultom/Kelompok-5_Proyek-DWBI/assets/70984049/2942c60e-b98a-4bc3-98e4-6f02c71c3335)
  
 <br>
  
